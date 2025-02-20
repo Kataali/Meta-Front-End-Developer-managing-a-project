@@ -12,3 +12,5 @@ Purple
 Brown
 Red
 Dark blue
+Beige
+Red Accent
